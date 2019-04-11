@@ -25,7 +25,7 @@ M file descriptions:
   
   Fig10Gen.m --- codes for re-producing Fig.10 based on one time simulations;
   
-  newsimu_running_records.tex --- running records of producing the above mentioned Fig.8, Fig.9, and Fig.10, respectively.
+  newsimu_running_records.txt --- running records of producing the above mentioned Fig7, Fig.8, Fig.9, and Fig.10, respectively.
 
 Note that: Since the information of Fig.9 is totally obserable from Fig.10, the Fig.9 in the revision is removed, and thus 
 Fig.10 in the revision is re-numbered as Fig.9. 

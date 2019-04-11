@@ -5,9 +5,17 @@ Running Env: MATLAB R2014a
 
 M file descriptions:
 
-  randHamGraph.m --- generate random Hamiltonian graph according the given node scale n and edge-density d
+  SOSinsgen.m --- generate random SOS instances;
+  
+  EdgeDual.m --- generate edge-dual graph of G;
+  
+  randHamGraph.m --- generate random Hamiltonian graph according the given node scale n and edge-density d;
 
-  vdf.m --- the VDF algorithm
+  vdf.m --- the VDF algorithm;
+  
+  newsimu4Fig7.m --- new simulation codes for producing Fig.7;
+  
+  Fig7Gen.m --- codes for re-producing Fig.7 based on one time simulatios;
   
   newsimu4Fig8.m --- new simulation codes for producing Fig.8;
   

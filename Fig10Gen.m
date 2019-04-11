@@ -32,13 +32,13 @@ set(gcf,'color','w') ;
 mesh(d,n,TRT);
 xlabel('Edge Density Level');
 ylabel('Node Number');
-zlabel('Total Running Time Over 100 Random Instances (sec)');
+zlabel('Total Running Time (sec)');
 
 figure % new figure
 set(gcf,'color','w') ;
 mesh(d,n,ASP);
 xlabel('Edge Density Level');
 ylabel('Node Number');
-zlabel('Average Success Probability Over 100 Random Instances');
+zlabel('Average Success Probability');
 
 
